@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Deep Swarnadeep Rooj</h1>
+<h1 align="center">👋 Hello, I'm Swarnadeep Rooj</h1>
 
 <p align="center">
   💻 <strong>Java Backend Developer</strong> &nbsp;|&nbsp;
