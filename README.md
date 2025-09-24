@@ -11,7 +11,7 @@
 ## 💼 About Me
 
 🎓 3rd Year Computer Science student from India  
-🔧 Proficient in **Java Core**, building backends using **Spring Boot**  
+🔧 Proficient in **Java Core**, building backends, REST API using **Spring Boot**  
 🔗 Designing and developing **RESTful APIs** with a focus on security and performance  
 🛢️ Skilled in managing data with **MySQL**  
 ☁️ Deploying and managing backend apps on **AWS EC2**  
